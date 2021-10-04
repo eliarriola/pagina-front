@@ -1,3 +1,4 @@
+
 .btn{
     border: none;
 
@@ -7,3 +8,41 @@
     color: green !important;
 }
 
+
+
+.oradores{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.conocer{
+    font-weight: lighter;
+    color: grey;
+}
+.oradores1{
+    font-weight: 500;
+}
+
+.logo{
+    float: left;
+}
+.img-logo{
+    width: 100px;
+    height: 75px;
+}
+.playa{
+    float: left;
+
+}
+.miCaja{
+    float: right;
+    background-color: grey;
+    color: white;
+}
+
+.boton{
+    background-color: transparent;
+    color: white;
+
+}
