@@ -31,12 +31,19 @@
     width: 100px;
     height: 75px;
 }
+.playa-img{
+    width: 650px;
+    height: 400px;
+    
+
+}
 .playa{
     float: left;
-
 }
 .miCaja{
     float: right;
+    padding: 10px;
+    height: 400px;
     background-color: grey;
     color: white;
 }
@@ -44,5 +51,14 @@
 .boton{
     background-color: transparent;
     color: white;
+    border-radius: 3px;
+    border: 1px solid white;
+    padding: 8px;
+    width: 110px;
 
+}
+.bs-playa{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;    
 }
