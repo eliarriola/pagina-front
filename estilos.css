@@ -86,10 +86,19 @@ input, textarea{
     padding: 7px;
 
 }
-footer{
-    padding: 10px;
+.footer{
+    padding: 20px;
+    text-align: center;
     color: white;
     background-color: #0b0662;
     box-sizing: border-box;
     
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
 }
