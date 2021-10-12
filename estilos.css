@@ -1,13 +1,42 @@
+.navegador{
+    float: right;
+}
+.conf{
+    color: white;
+}
+#conferencia{
+    color: white;
+}
+.derecha{
+    text-align: right;
+}
 
+#mensaje{
+    padding: 150px;
+    box-sizing: border-box;
+}
 .btn{
     border: none;
+
+}
+#btn-2{
+    background-color: #96c93e;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid white;
+    padding: 8px;
+    margin-left: 10px;
+    width: 110px;
+
 
 }
 
 .verde{
     color: green !important;
 }
-
+.blanco{
+    color: white !important;
+}
 
 
 .oradores{
@@ -49,7 +78,7 @@
     float: right;
     padding: 10px;
     height: 400px;
-    background-color: grey;
+    background-color: #333a40;
     color: white;
     box-sizing: border-box;
 }
@@ -61,6 +90,7 @@
     border: 1px solid white;
     padding: 8px;
     width: 110px;
+    text-decoration: none;
 
 }
 .bs-playa{
@@ -79,7 +109,7 @@ input, textarea{
 }
 #btn-enviar{
     color: white;
-    background-color: #87DB4A;
+    background-color: #96c93e;
     border-radius: 7px;
     border: none;
     margin-bottom: 10px;
@@ -90,7 +120,7 @@ input, textarea{
     padding: 20px;
     text-align: center;
     color: white;
-    background-color: #0b0662;
+    background-color: #1c3846;
     box-sizing: border-box;
     
 }
@@ -101,4 +131,11 @@ input, textarea{
 
 ul{
     list-style: none;
+}
+.margen-footer{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.nav-link{
+    padding-right: 3rem !important;
 }
