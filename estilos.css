@@ -161,7 +161,7 @@ ul{
 .estudiante{
     width: 200px;
     height: 200px;
-    border: 1px solid blue;
+    border: 2px solid blue;
     margin-left: 3px;
     display: inline-block;
     box-sizing: border-box;
@@ -173,7 +173,7 @@ ul{
 .trainee{
     width: 200px;
     height: 200px;
-    border: 1px solid green;
+    border: 2px solid green;
     margin-left: 3px;
     display: inline-block;
     box-sizing: border-box;
@@ -185,10 +185,28 @@ ul{
 .junior{
     width: 200px;
     height: 200px;
-    border: 1px solid yellow;
+    border: 2px solid yellow;
     margin-left: 3px;
     display: inline-block;
     box-sizing: border-box;
     text-align: center;
     padding: 10px;
+}
+.venta{
+    text-align: center;
+}
+
+.col-sm-6-form {
+
+    width: 49% !important;
+}
+.izquierda{
+    float: left;
+}
+.pagar{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 10px;
+    background-color: turquoise;
+    border-radius: 5px;
 }
