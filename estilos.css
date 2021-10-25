@@ -151,3 +151,44 @@ ul{
 .nav-link{
     padding-right: 3rem !important;
 }
+
+
+*{
+    margin: 3px;
+    padding: 2px;
+}
+
+.estudiante{
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    margin-left: 3px;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.trainee{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    margin-left: 3px;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.junior{
+    width: 200px;
+    height: 200px;
+    border: 1px solid yellow;
+    margin-left: 3px;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+}
